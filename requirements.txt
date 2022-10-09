@@ -1,7 +1,2 @@
-tensorboardX == 1.6
-opencv - python >= 3.3 .0 .10
-pillow >= 6.2 .1
-flask
-scikit - image
-gunicorn
-pandas
+Collecting torch >= 1.0 .0
+Downloading torch - 1.6 .0 - cp36 - cp36m - manylinux1_x86_64.whl(748.8 MB)
