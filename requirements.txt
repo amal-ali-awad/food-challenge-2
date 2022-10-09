@@ -1,7 +1,6 @@
-Collecting torch >= 1.0 .0
-Downloading torch - 1.6 .0 - cp36 - cp36m - manylinux1_x86_64.whl(748.8 MB)
-torch
-torchvision==0.2.1
-Flask==1.0.2
-fastai==1.0.42
-
+-f https: //download.pytorch.org/whl/torch_stable.html
+   torch == 1.8 .1 + cpu
+torchvision == 0.9 .1 + cpu
+fastai
+voila
+ipywidgets
